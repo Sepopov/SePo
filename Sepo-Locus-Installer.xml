@@ -2,7 +2,7 @@
 <locusActions>
 <download>
 <source size="78530">
-<![CDATA[ https://github.com/Sepopov/SePo/blob/main/Sepo.Locus.Custom.Maps.zip ]]>
+<![CDATA[ https://sepopov.github.io/SePo/Sepo.Locus.Custom.Maps.zip ]]>
 </source>
 <dest>
 <![CDATA[ /mapsOnline/custom/Sepo.Locus.Custom.Maps.zip ]]>
