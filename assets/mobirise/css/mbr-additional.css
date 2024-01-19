@@ -782,7 +782,11 @@ a {
   display: flex;
   padding-top: 0rem;
   padding-bottom: 6rem;
-  background-color: #393193;
+  background-image: url("../../../assets/images/img-932.jpg");
+}
+.cid-u1N4qeNOTN .mbr-overlay {
+  background-color: #f92c50;
+  opacity: 0.5;
 }
 .cid-u1N4qeNOTN .mbr-fallback-image.disabled {
   display: none;
