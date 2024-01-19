@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locusActions>
+<download>
+<source size="78530">
+<![CDATA[ https://github.com/Sepopov/SePo/blob/main/Sepo.Locus.Custom.Maps.zip ]]>
+</source>
+<dest>
+<![CDATA[ /mapsOnline/custom/Sepo.Locus.Custom.Maps.zip ]]>
+</dest>
+<after>extract|deleteSource|refreshMap</after>
+</download>
+</locusActions>
