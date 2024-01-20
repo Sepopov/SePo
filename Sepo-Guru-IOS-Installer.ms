@@ -4,5 +4,5 @@
     <name>Sakhagis Huntingground</name>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
-    <url>https://sakhagis.ru/tiles/hunting-ground/{$z}/{$invY}/{$invX}.png</url>
+    <url>https://sakhagis.ru/tiles/hunting-ground/{$z}/{$y}/{$invX}.png</url>
 </customMapSource>
